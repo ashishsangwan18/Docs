@@ -1,0 +1,14 @@
+Date,Name,Departments,Salary,Expenditure
+2022-02-11,Ashish,Data Science,10000,2500
+2022-02-12,Ashish,IOT,5000,1250
+2022-02-13,Salaj,Big Data,4000,1000
+2022-02-14,Ashish,Big Data,4000,1000
+2022-02-15,Salaj,Data Science,3000,750
+2022-02-16,Phool,Data Science,20000,5000
+2022-02-17,Phool,IOT,10000,2500
+2022-02-18,Phool,Big Data,5000,1250
+2022-02-19,Sangwan,Data Science,10000,2500
+2022-02-20,Sangwan,Big Data,2000,500
+2022-02-21,Shontu,IOT,,
+2022-02-22,,IOT,,
+2022-02-23,Sangwan,,30,
